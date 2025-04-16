@@ -33,7 +33,7 @@ A Python implementation of Wordle that runs in the terminal with colored feedbac
 
 ```bash
 git clone git@github.com:parm2006/wordle-io.git
-cd terminal-wordle
+cd wordle-io
 python main.py
 ```
 
