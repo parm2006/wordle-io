@@ -22,7 +22,7 @@ A Python implementation of Wordle that runs in the terminal with colored feedbac
 ## Game Modes
 
 - **Normal Mode**: Standard Wordle rules
-- **Hard Mode**: Any revealed hints must be used in subsequent guesses
+- **Hard Mode**: Any revealed hints must be used in subsequent guesses (Not Implemented Yet)
 
 ## Requirements
 
